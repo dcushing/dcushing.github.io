@@ -1,9 +1,7 @@
-title: dcushing.co
+title: dcushing.github.io
 author: Danielle Cushing
 description: >- # this means to ignore newlines until "baseurl:"
   Website and portforlio for Danielle Cushing, iOS software engineer
 url: "https://dcushing.github.io" 
 theme: jekyll-theme-tactile
-social-network-links:
-  github: dcushing
-  linkedin: daniellecushing
+github_username: dcushing
